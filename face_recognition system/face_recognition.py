@@ -9,7 +9,7 @@ import numpy as np
 from time import strftime
 from datetime import datetime
 
-# from Main import Face_Recognition_System
+# from main import Face_Recognition_System
 
 class Face_recognition:
     def __init__(self,root):
